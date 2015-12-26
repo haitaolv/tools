@@ -1,4 +1,4 @@
-#!d:/programs/Perl/bin/perl.exe
+#!/usr/bin/perl -w
 
 use CGI;
 use Fcntl ':flock'; #import LOCK_* constants
